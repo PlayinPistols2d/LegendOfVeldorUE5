@@ -19,9 +19,18 @@ Here are some GIFs showcasing different aspects of the Techno Demo Game:
 1. Character's thoughts while traveling <br/>
 ![LegendOfVeldorDemo-Thoughts](https://github.com/user-attachments/assets/d50ecd74-8918-4fa8-9d8d-5eb3719881d9)
 
-2. Core Systems in Action:
+2. Current location name show up:
+3. Dialogue system - intro talk with NPC:
+4. Dialogue system - multiple answers option:
+5. Dialogue system - shop option:
+6. Dialogue system - quest option:
 
-3. Environment Exploration:
+7. Economy system - buy/sell features
+
+8. Quest system - quest menu
+9. Quest system - quest log
+10. Quest system - dynamic quest progression
+11. Multiple features to highlight...
 
 ## Download
 You can download the demo build here - [releases/latest](https://github.com/PlayinPistols2d/LegendOfVeldorUE5/releases/latest)
