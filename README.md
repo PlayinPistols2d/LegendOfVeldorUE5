@@ -17,10 +17,8 @@ I appreciate your understanding as this project is a part of my learning journey
 Here are some GIFs showcasing different aspects of the Techno Demo Game:
 
 1. Character's thoughts while traveling
-   <details>
-   <summary>Click to View GIF</summary>
-   <img src=![LegendOfVeldorDemo-Thoughts](https://github.com/user-attachments/assets/c85d9b6e-8bfc-402b-a136-1337f86205bc) alt="Gameplay Mechanics GIF">
-   </details>
+   - [View Gameplay Mechanics GIF](![LegendOfVeldorDemo-Thoughts](https://github.com/user-attachments/assets/4a5700d8-d225-45ef-8635-0cc7e585aec4))
+   ![Gameplay Mechanics](thumbnail-link)
 
 2. Core Systems in Action:
 
