@@ -12,12 +12,26 @@ This game was created primarily for study purposes. The aim was to practice and 
 ## Note from the Author
 While this demo is a testament to the skills I have developed, it is important to note that this build may still contain minor bugs. I appreciate your understanding as this project is a part of my learning journey. Any feedback or suggestions are welcome as they will help me improve and grow as a game developer.
 
+## Showcase - ToDo
+Here are some GIFs showcasing different aspects of the Techno Demo Game:
+
+1. Gameplay Mechanics:
+
+2. Core Systems in Action:
+
+3. Environment Exploration:
+
 ## Download
 You can download the demo build here - [releases/latest](https://github.com/PlayinPistols2d/LegendOfVeldorUE5/releases/latest)
 
 ## Contact
 For feedback, suggestions, or inquiries, please feel free to contact me through Github or any media linked to my profile.
 
+## Disclaimer
+- **Asset Rights**: Author have the rights to use every asset included in this demo.
+- **Name Coincidence**: Any names that resemble real-life entities are purely coincidental. This demo and its author do not have any affiliation or connection with them.
+
+## License
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
