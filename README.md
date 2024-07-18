@@ -10,7 +10,8 @@ This game was created primarily for study purposes. The aim was to practice and 
 - **Placeholder Models**: Visuals were not the primary task, so some in-game objects, like characters or several UI elements, have placeholder models. The emphasis is on the functionality and underlying code.
 
 ## Note from the Author
-While this demo is a testament to the skills I have developed, it is important to note that this build may still contain minor bugs. I appreciate your understanding as this project is a part of my learning journey. Any feedback or suggestions are welcome as they will help me improve and grow as a game developer.
+While this demo is a testament to the skills I have developed, it is important to note that this build may still contain minor bugs. Unfortunately, this demo does not include several in-game mechanics that I've developed in my standalone projects. However, it does feature the basic mechanics necessary for the Techno Demo to function. <br/> 
+I appreciate your understanding as this project is a part of my learning journey. Any feedback or suggestions are welcome as they will help me improve and grow as a game developer.
 
 ## Showcase - ToDo
 Here are some GIFs showcasing different aspects of the Techno Demo Game:
