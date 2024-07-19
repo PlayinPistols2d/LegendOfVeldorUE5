@@ -2,7 +2,7 @@
 Welcome to the Techno Demo of 3D First Person Adventure game, made with UE5, C++ and Blueprints, a showcase of various features and mechanics developed as part of my journey in mastering the complete game development cycle. <br/> <br/>
 ![HighresScreenshot00001](https://github.com/user-attachments/assets/1f08a4f7-75e4-4c67-99ee-5ab9d06f98cf) 
 ## Purpose
-This game was created primarily for study purposes. The aim was to practice and refine my game development skills, with a primary focus on coding every in-game system, from basic interactions to the core save system.
+This game was created primarily for study purposes. The aim was to practice and refine my game development skills, with a focus on coding every in-game system, from basic interactions to the core save system.
 
 ## Features
 - **Diverse Mechanics**: Explore game mechanics that demonstrate my understanding of basic player interactions, physics, and system design for such genre.
