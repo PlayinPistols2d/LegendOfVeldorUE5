@@ -14,13 +14,13 @@ While this demo is a testament to the skills I have developed, it is important t
 I appreciate your understanding as this project is a part of my learning journey. Any feedback or suggestions are welcome as they will help me improve and grow as a game developer.
 
 ## Showcase
-Here are some GIFs showcasing different aspects of the Techno Demo Game:
+Here are some GIFs showcasing different aspects of the techno demo build:
 
-**1. Player - Character's thoughts while traveling** <br/>
+**1. Player - character's thoughts while traveling** <br/>
 ![LegendOfVeldorDemo-Thoughts](https://github.com/user-attachments/assets/d50ecd74-8918-4fa8-9d8d-5eb3719881d9)
 
 
-**2. Player - Inventory system** <br/>
+**2. Player - inventory system** <br/>
 ![playerInventory (1)](https://github.com/user-attachments/assets/84b2b110-daa2-44d2-9b27-8dd2ef30b7c9)
 
 
@@ -76,19 +76,19 @@ Here are some GIFs showcasing different aspects of the Techno Demo Game:
 ![Quest system quest chains (1)](https://github.com/user-attachments/assets/c2ba2f9d-2031-42ae-947c-3ef8ad342471)
 
 
-**16. Save/Load system** <br/>
+**16. Core - save/load system** <br/>
 ![loadingSystem (1)](https://github.com/user-attachments/assets/20ba8a2a-a4bf-45db-8993-22c24baef69e)
 
 
-**17. Pause/Settings menu** <br/>
+**17. Core - pause/settings menu** <br/>
 ![pause-settingsMenu (1)](https://github.com/user-attachments/assets/61d2a5be-3cdc-4893-b13e-a619e75c54dc)
 
 
-**18. Misc - Current location name show up** <br/>
+**18. Misc - current location name show up** <br/>
 ![Current location name show up (1)](https://github.com/user-attachments/assets/6a81900a-9650-478d-81fd-dbc63bfa51af)
 
 
-**19. Misc - Level transition** <br/>
+**19. Misc - level transition** <br/>
 ![levelTransition1](https://github.com/user-attachments/assets/ce0ec008-9983-4e44-aaa7-78b6c022dd8a)
 
 ## Download
